@@ -1,2 +1,2 @@
-# cs465-fullstack
-CS-465 Full Stack Development with MEAN
+# Travlr
+Full-stack development with MEAN for travel-booking company Travlr Getaways.
