@@ -1,2 +1,2 @@
 # Travlr
-Full-stack development with MEAN for travel-booking company Travlr Getaways.
+Full-stack development with MEAN for travel booking company Travlr Getaways.
